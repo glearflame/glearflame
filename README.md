@@ -24,6 +24,10 @@ intel. Tem CI, testes e ShellCheck limpo. *Uso apenas com autorização.*
 **[pentest-kit](https://github.com/glearflame/pentest-kit)** · `Python`
 GUI para orquestrar ferramentas de pentest sem decorar flag.
 
+**[despertador](https://github.com/glearflame/despertador)** · `Python`
+Alarme, relógio mundial e cronômetro para Linux — Tkinter, distribuído em
+AppImage. [Download da última versão](https://github.com/glearflame/despertador/releases/latest).
+
 **[rinear-systems-painel](https://github.com/glearflame/rinear-systems-painel)** · `JavaScript`
 Painel web de gestão.
 
